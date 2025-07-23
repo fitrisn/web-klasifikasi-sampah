@@ -39,7 +39,7 @@ if page == "🏡 Beranda":
     st.markdown("""
         <div style='background-color: #FFF3CD; padding: 20px; border-radius: 10px; text-align: center;'>
             <h1 style='color: #FF8C00;'>👋 Halo Teman Kecil!</h1>
-            <h4>Selamat datang di <b>SiPilah</b>! Tempat seru untuk belajar memilah sampah 🌍</h4>
+            <h4 style='color: #808080;'>Selamat datang di <b>SiPilah</b>! Tempat seru untuk belajar memilah sampah 🌍</h4>
         </div>
     """, unsafe_allow_html=True)
     st.success("✨ Yuk mulai petualangan menjaga bumi di sini!")
