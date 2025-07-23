@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-from gtts import gTTS
+import gTTS
 import tensorflow as tf
 import os
 import gdown
